@@ -25,3 +25,5 @@ youtube video :https://www.youtube.com/watch?v=ZQ7a6hweJ4s
 *   Kedi duvar kenarlarından çok geç düşüyor.
     Kedi görseli duvar görselinin tamamından çıkmadan yere düşmüyor.
     Kedi havada uçuyor gibi görünüyor düzeltilmesi lazım.
+*   Oyunda müzik yok. Müzik veya buton sesi eklemek gerek
+
