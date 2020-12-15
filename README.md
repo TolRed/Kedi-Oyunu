@@ -17,6 +17,7 @@ youtube video :https://www.youtube.com/watch?v=lfFBmC9-iYc
 ![gorsel4](https://github.com/TolRed/Kedi-Oyunu/blob/main/gorsel4.jpg)
 ![gorsel5](https://github.com/TolRed/Kedi-Oyunu/blob/main/gorsel5.jpg)
 
+
     Eksikler ve düzenlenmesi gerekenler:
 *   Oyun sadece 10 bölümden oluşuyor yeni bölümler eklemek lazım.
 *   Kedi puanların üzerinden geçtiğinde puanların tamamını silemediği oluyor. 
